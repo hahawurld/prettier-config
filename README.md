@@ -1,6 +1,6 @@
-# @clouburst-sbc/prettier-config
+# @hahawurld/prettier-config
 
-A base prettier config for Cloudburst, SBC projects
+A base prettier config for hahawurld projects
 
 ## Usage
 
